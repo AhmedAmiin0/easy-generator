@@ -337,27 +337,4 @@ pnpm run lint
 |----------|-------------|---------|
 | `VITE_API_URL` | Backend API URL | `http://localhost:3001/api` |
 
-## 🤝 **Contributing**
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature-name`
-3. Make your changes
-4. Add tests if applicable
-5. Commit your changes: `git commit -m 'Add feature'`
-6. Push to the branch: `git push origin feature-name`
-7. Submit a pull request
-
-## 📝 **License**
-
-This project is licensed under the MIT License.
-
-## 🆘 **Support**
-
-- **Backend Documentation:** `http://localhost:3001/api/docs`
-- **API Testing:** Use Swagger UI for interactive testing
-- **Issues:** Create GitHub issues for bugs or feature requests
-- **Development:** Check console logs for debugging information
-
----
-
 **Happy coding! 🎉**
